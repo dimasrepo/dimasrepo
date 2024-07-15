@@ -27,7 +27,7 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 <div>
 
 ### Languages and Tools :
-| Python  | R        | SQL Query | Tableau                          | Power BI                           | Vscode                             |
+| Python  | R        | SQLite | Tableau                          | Power BI                           | Vscode                             |
 |---------|----------|-----------|----------------------------------|------------------------------------|------------------------------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="55" height="55"/> |
 
