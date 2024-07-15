@@ -38,10 +38,10 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 
 ### Best libraries :
 
-| Python          |          |          |             |          |          |          |
-|-----------------|----------|----------|-------------|----------|----------|----------|
+| Python          |          |          |             |          |          |          |          |
+|-----------------|----------|----------|-------------|----------|----------|----------|----------|
 | NumPy           | Pandas   | Matplotlib| Scikit-learn| Keras    | Beautiful Soup | Seaborn  | Requests  |
-| ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg) | ![Scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Keras](https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg) | ![Beautiful Soup](https://github.com/devicons/devicon/blob/master/icons/beautifulsoup/beautifulsoup-original.svg) | ![Seaborn](https://github.com/devicons/devicon/blob/master/icons/seaborn/seaborn-original.svg) | ![Requests](https://github.com/devicons/devicon/blob/master/icons/requests/requests-original.svg) |
+| ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg) | ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | ![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg) | ![Scikit-learn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Keras](https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg) | ![Beautiful Soup](https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg) | ![Seaborn](https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg) | ![Requests](https://github.com/devicons/devicon/blob/master/icons/requests/requests-original.svg) |
 
 
 
