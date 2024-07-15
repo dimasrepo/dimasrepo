@@ -30,23 +30,19 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 ## Competitions: 🥇
  
-### CTF's
+### Repository
 
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
+| Project | Platform | Link |
+|-----|-----|-----|
+| Webscraping-Exchange-Rate | Python | [GitHub](https://github.com/dimasrepo/Webscraping-Exchange-Rate_Python) |
+| Coffee Trend and Recipe | Rpubs | [GitHub](https://github.com/dimasrepo/Coffe-Trend-and-Recipe_Rpubs) |
+| Super Store Overview | Tableau | [GitHub](https://github.com/dimasrepo/Super-Store-Overview_Tableau) |
+| Crime UK Shinyapp | Shinyapp | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp) |
+| Energy Analysis | Shinyapp | [GitHub](https://github.com/dimasrepo/Energy-Analysis---Shinyapp) |
+| Bank Portuguese Campaigns | Rpubs | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
 
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
+
+
 
 
 ### Working on: 🚀
@@ -60,10 +56,11 @@ Join me on Linkedin, where I share insights, experience, and profile.
 ## Languages and Tools 
 <div>
 
-### Languages:
-| Python3 | C | JS | Solidity | GO |
+### Languages and Tools:
+| Python | R | SQL Query | Tableau | Power BI |
 |----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL Query" alt="SQL Query" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | 
+
 
   
 
