@@ -37,10 +37,11 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 
 ### Best libraries :
 
-| Python |  |  |  |  |  |  |
-|----------|----------|----------|----------|----------|----------|----------|
-| NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow | Keras | SQLite |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/en/9/98/SQLite370.svg" title="SQLite" alt="SQLite" width="55" height="55"/> |
+| Python     |          |          |          |          |          |
+|------------|----------|----------|----------|----------|----------|
+| NumPy      | Pandas   | Matplotlib | Scikit-learn | Keras   |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/> |
+
 
 
 | R Language |  |  |  |  |  | 
