@@ -73,6 +73,7 @@ Join me on Linkedin, where I share insights, experience, and profile.
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="55" height="55"/> |
 
+![](https://komarev.com/ghpvc/?username=dimasrepo)
 
 
 
