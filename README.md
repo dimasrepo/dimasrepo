@@ -44,10 +44,11 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 
 
 
-| R Language |  |  |  |  |  | 
-|----------|----------|----------|----------|----------|----------|
-| ggplot2 | dplyr | tidyr | shiny | caret | data.table |
-| <img src="https://ggplot2.tidyverse.org/logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> | <img src="https://dplyr.tidyverse.org/logo.png" title="dplyr" alt="dplyr" width="55" height="55"/> | <img src="https://tidyr.tidyverse.org/logo.png" title="tidyr" alt="tidyr" width="55" height="55"/> | <img src="https://shiny.rstudio.com/tutorial/logo.png" title="shiny" alt="shiny" width="55" height="55"/> | <img src="https://topepo.github.io/caret/index.html/logo.png" title="caret" alt="caret" width="55" height="55"/> | <img src="https://www.rdocumentation.org/assets/logo.png" title="data.table" alt="data.table" width="55" height="55"/> |
+| R Language |          |          |          |
+|------------|----------|----------|----------|
+| ggplot2    | dplyr    | tidyr    |          |
+| <img src="https://ggplot2.tidyverse.org/logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> | <img src="https://dplyr.tidyverse.org/logo.png" title="dplyr" alt="dplyr" width="55" height="55"/> | <img src="https://tidyr.tidyverse.org/logo.png" title="tidyr" alt="tidyr" width="55" height="55"/> |          |
+
 
 
 
