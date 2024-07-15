@@ -59,7 +59,7 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 
 
-### My tools for Data Manipulation & Visualisation 📉:
+### Tools for Data Visualisation & Other 📉:
 
 | Conda | Jupyter | ggplot | MySQL | SQLite | Plotly | Matplotlib |
 |----------|----------|----------|----------|----------|----------|----------|
