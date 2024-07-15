@@ -10,9 +10,9 @@ Join me on Linkedin, where I share insights, experience, and profile.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-a-11b184122/)
 
 
-## Competitions: 🥇
+## Repository 📁
  
-### Repository
+### Project 📄
 
 | Project | Platform | Link |
 |-----|-----|-----|
