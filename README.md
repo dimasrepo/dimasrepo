@@ -2,11 +2,6 @@
 ### About Me:    
 I am a dedicated data scientist passionate about leveraging data-driven insights to solve complex problems and drive informed decision-making. With expertise in machine learning and predictive analytics, I specialize in developing robust models that uncover valuable patterns in data. My goal is to continuously innovate and contribute to the advancement of data science, making meaningful impacts across various domains.
        
-   
-## Social media 🌐    
-Join me on Linkedin, where I share insights, experience, and profile. 
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-a-11b184122/)
 
 
 ## Repository 📁
@@ -76,7 +71,10 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 ![](https://komarev.com/ghpvc/?username=dimasrepo)
 
+## Social media 🌐    
+Join me on Linkedin, where I share insights, experience, and profile. 
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-a-11b184122/)
 
 <!--
 
