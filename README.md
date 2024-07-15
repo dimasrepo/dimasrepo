@@ -8,14 +8,14 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
  
 ### Project 
 
-| Project | Platform | Link |
-|-----|-----|-----|
-| Webscraping Exchange Rate | Python | [GitHub](https://github.com/dimasrepo/Webscraping-Exchange-Rate_Python) |
-| Coffee Trend and Recipe | Rpubs | [GitHub](https://github.com/dimasrepo/Coffe-Trend-and-Recipe_Rpubs) |
-| Super Store Overview | Tableau | [GitHub](https://github.com/dimasrepo/Super-Store-Overview_Tableau) |
-| Crime UK Shinyapp | Shinyapp | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp) |
-| Energy Analysis | Shinyapp | [GitHub](https://github.com/dimasrepo/Energy-Analysis---Shinyapp) |
-| Bank Portuguese Campaigns | Rpubs | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
+| Project                          | Platform            | Topic               | Link                                                           |
+|----------------------------------|---------------------|---------------------|----------------------------------------------------------------|
+| Exchange Rate                    | Python              | Web Scraping        | [GitHub](https://github.com/dimasrepo/Webscraping-Exchange-Rate_Python) |
+| Coffee Trend and Recipe          | Data Visualization   | Rpubs               | [GitHub](https://github.com/dimasrepo/Coffe-Trend-and-Recipe_Rpubs) |
+| Super Store Overview             | Data Visualization   | Tableau             | [GitHub](https://github.com/dimasrepo/Super-Store-Overview_Tableau) |
+| Crime UK Shinyapp               | Interactive Plotting | Shinyapp            | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp)     |
+| Energy Analysis                  | Interactive Plotting | Shinyapp            | [GitHub](https://github.com/dimasrepo/Energy-Analysis---Shinyapp) |
+| Bank Portuguese Campaigns        | Data Science Coding  | Rpubs               | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
 
 
 
