@@ -15,7 +15,7 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 | Project | Platform | Link |
 |-----|-----|-----|
-| Webscraping-Exchange-Rate | Python | [GitHub](https://github.com/dimasrepo/Webscraping-Exchange-Rate_Python) |
+| Webscraping Exchange Rate | Python | [GitHub](https://github.com/dimasrepo/Webscraping-Exchange-Rate_Python) |
 | Coffee Trend and Recipe | Rpubs | [GitHub](https://github.com/dimasrepo/Coffe-Trend-and-Recipe_Rpubs) |
 | Super Store Overview | Tableau | [GitHub](https://github.com/dimasrepo/Super-Store-Overview_Tableau) |
 | Crime UK Shinyapp | Shinyapp | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp) |
