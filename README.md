@@ -9,9 +9,9 @@ Join me on Linkedin, where I share insights, experience, and profile.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-a-11b184122/)
 
 
-## Repository 📁
+## Repository 
  
-### Project 📄
+### Project 📁
 
 | Project | Platform | Link |
 |-----|-----|-----|
@@ -30,7 +30,7 @@ Join me on Linkedin, where I share insights, experience, and profile.
 ## Languages and Tools 
 <div>
 
-### Languages and Tools:
+### Languages 📖 :
 | Python | R | SQL Query | Tableau | Power BI |
 |----------|----------|----------|-----|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL Query" alt="SQL Query" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | 
@@ -38,7 +38,8 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
   
 
-### Best libraries :
+### Best libraries 🗄️:
+
 | Python |  |  |  |  |  |  |
 |----------|----------|----------|----------|----------|----------|----------|
 | NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow | Keras | SQLite |
@@ -58,7 +59,7 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 
 
-### My tools for Data Manipulation & Visualisation:
+### My tools for Data Manipulation & Visualisation 📉:
 
 | Conda | Jupyter | ggplot | MySQL | SQLite | Plotly | Matplotlib |
 |----------|----------|----------|----------|----------|----------|----------|
