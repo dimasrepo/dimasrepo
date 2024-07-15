@@ -65,10 +65,14 @@ Join me on Linkedin, where I share insights, experience, and profile.
   
 
 ### Best libraries :
-
+| Python |
 | NumPy | Pandas | Matplotlib | Scikit-learn | TensorFlow | Keras | SQLite |
-|----------|----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/en/9/98/SQLite370.svg" title="SQLite" alt="SQLite" width="55" height="55"/> |
+
+| R Language |
+| ggplot2 | dplyr | tidyr | shiny | caret | data.table |
+|----------|----------|----------|----------|----------|----------|
+| <img src="https://ggplot2.tidyverse.org/logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> | <img src="https://dplyr.tidyverse.org/logo.png" title="dplyr" alt="dplyr" width="55" height="55"/> | <img src="https://tidyr.tidyverse.org/logo.png" title="tidyr" alt="tidyr" width="55" height="55"/> | <img src="https://shiny.rstudio.com/tutorial/logo.png" title="shiny" alt="shiny" width="55" height="55"/> | <img src="https://topepo.github.io/caret/index.html/logo.png" title="caret" alt="caret" width="55" height="55"/> | <img src="https://www.rdocumentation.org/assets/logo.png" title="data.table" alt="data.table" width="55" height="
 
 
 
