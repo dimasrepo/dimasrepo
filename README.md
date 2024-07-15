@@ -1,24 +1,6 @@
-## Hi there 👋
-
-<!--
-**dimasrepo/dimasrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
   
 ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in machine learning models. 
+I am a dedicated data scientist deeply passionate about predictive analytics, with a specialization in crafting advanced machine learning models. My expertise lies in harnessing data-driven insights to solve complex problems and drive strategic decision-making. Through meticulous analysis and innovative model development, I thrive on uncovering patterns and trends that empower organizations to optimize performance and achieve their goals. My journey in data science is driven by a relentless curiosity and a commitment to leveraging technology to make impactful changes in diverse domains.
 
        
    
@@ -44,13 +26,6 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 
 
-
-### Working on: 🚀
-
-- Learning [GO](https://github.com/sammorozov/go_ilya_kruk)
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
 
 
 ## Languages and Tools 
