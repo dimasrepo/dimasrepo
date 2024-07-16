@@ -84,7 +84,7 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-a-11b184122/)
 
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasrepo&layout=compact&langs_count=8&theme=transparent"/><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrepo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 ### It's not technology, but I use it. The section will be changed soon.:
