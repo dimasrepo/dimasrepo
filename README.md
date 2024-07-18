@@ -64,9 +64,10 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 
 ### Tools for Data Visualisation & Other 📉:
 
-| Conda   | Jupyter  | ggplot   | SQLite   | Plotly   | Matplotlib |
-|---------|----------|----------|----------|----------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ggplot2.png" title="ggplot" alt="ggplot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
+| Conda   | Jupyter  | ggplot   | Plotly   | Matplotlib |
+|---------|----------|----------|----------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ggplot2.png" title="ggplot" alt="ggplot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
+
 
 
 
@@ -84,7 +85,8 @@ Join me on Linkedin, where I share insights, experience, and profile.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimas-a-11b184122/)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrepo&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasrepo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 
