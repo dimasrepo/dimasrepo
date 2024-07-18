@@ -29,7 +29,7 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 ### Languages :
 | Python  | R        | SQL      |
 |---------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="SQL" alt="SQL" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> | <img src="https://png.pngtree.com/png-clipart/20240221/original/pngtree-uiux-app-logo-design-iconic-sql-database-business-photo-png-image_14376088.png" title="SQL" alt="SQL" width="55" height="55"/> |
 
 
 
