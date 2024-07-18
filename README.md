@@ -34,9 +34,10 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 
 
 ### Tools :
-| Power BI                           | Tableau                          | Vscode                             | RStudio                             |
-|------------------------------------|----------------------------------|------------------------------------|--------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="95" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" title="RStudio" alt="RStudio" width="90" height="40"/> |
+| Power BI                           | Tableau                          | Vscode                             | RStudio                             | Conda                               | Jupyter Notebook                    |
+|------------------------------------|----------------------------------|------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="95" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" title="RStudio" alt="RStudio" width="90" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55"/> |
+
 
 
 
@@ -74,9 +75,10 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 
 ### Tools for Data Visualisation & Other 📉:
 
-| Conda   | Jupyter  | ggplot   | Plotly   | Matplotlib |
-|---------|----------|----------|----------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://ggplot2.tidyverse.org/logo.png" title="ggplot" alt="ggplot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
+| ggplot   | Plotly   | Matplotlib |
+|----------|----------|------------|
+| <img src="https://ggplot2.tidyverse.org/logo.png" title="ggplot" alt="ggplot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
+
 
 
 
