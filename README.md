@@ -36,7 +36,7 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 ### Tools :
 | Power BI                           | Tableau                          | Vscode                             | RStudio                             |
 |------------------------------------|----------------------------------|------------------------------------|--------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" title="RStudio" alt="RStudio" width="90" height="45"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="90" height="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="55" height="55"/> | <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" title="RStudio" alt="RStudio" width="90" height="45"/> |
 
 
 
