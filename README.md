@@ -61,7 +61,7 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 
 | R Language |          |          |          |          |          |          |
 |------------|----------|----------|----------|----------|----------|----------|
-| ggplot2    | dplyr    | tidyr    | shiny    | caret    | data.table | lubridate |
+| ggplot2    | Dplyr    | Tidyr    | Shiny    | Caret    | Data.table | Lubridate |
 | <img src="https://ggplot2.tidyverse.org/logo.png" title="ggplot2" alt="ggplot2" width="55" height="55"/> | <img src="https://dplyr.tidyverse.org/logo.png" title="dplyr" alt="dplyr" width="55" height="55"/> | <img src="https://tidyr.tidyverse.org/logo.png" title="tidyr" alt="tidyr" width="55" height="55"/> | <img src="https://bookdown.org/martin_shepperd/ModernDataBook/images/C6_ShinySticker.png" title="shiny" alt="shiny" width="55" height="55"/> | <img src="https://forum.posit.co/uploads/default/optimized/3X/6/3/639b244d305240ebbe76c5077baef563c884417f_2_500x500.jpeg" title="caret" alt="caret" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/7824179?s=200&v=4" title="data.table" alt="data.table" width="55" height="55"/> | <img src="https://lubridate.tidyverse.org/logo.png" title="lubridate" alt="lubridate" width="55" height="55"/> |
 
 
