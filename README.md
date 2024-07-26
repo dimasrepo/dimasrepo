@@ -16,7 +16,8 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 | Crime UK Shinyapp                | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp)     |
 | Energy Analysis                  | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Energy-Analysis---Shinyapp) |
 | Bank Portuguese Campaigns        | Data Science          | Rpubs               | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
-| Ecommerce                        | Data Science         | Apache Superset     | [GitHub](https://github.com/dimasrepo/Ecommerce-Postgree-Apache-Superset/tree/main) |
+`| Ecommerce                        | Data Science         | Apache Superset     | [GitHub](https://github.com/dimasrepo/Ecommerce-Postgree-Apache-Superset/tree/main) |`
+
 
 
 
