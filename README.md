@@ -13,9 +13,11 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 | Exchange Rate                    | Web Scraping         | Python              | [GitHub](https://github.com/dimasrepo/Webscraping-Exchange-Rate_Python) |
 | Coffee Trend and Recipe          | Data Visualization    | Rpubs               | [GitHub](https://github.com/dimasrepo/Coffe-Trend-and-Recipe_Rpubs) |
 | Super Store Overview             | Data Visualization    | Tableau             | [GitHub](https://github.com/dimasrepo/Super-Store-Overview_Tableau) |
-| Crime UK Shinyapp               | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp)     |
+| Crime UK Shinyapp                | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp)     |
 | Energy Analysis                  | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Energy-Analysis---Shinyapp) |
-| Bank Portuguese Campaigns        | Data Science Coding   | Rpubs               | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
+| Bank Portuguese Campaigns        | Data Science          | Rpubs               | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
+| Ecommerce                        | Data Science         | Apache Superset     | [GitHub](https://github.com/dimasrepo/Ecommerce-Postgree-Apache-Superset/tree/main) |
+
 
 
 
