@@ -15,7 +15,8 @@ I am a dedicated data scientist passionate about leveraging data-driven insights
 | Super Store Overview             | Data Visualization    | Tableau             | [GitHub](https://github.com/dimasrepo/Super-Store-Overview_Tableau) |
 | Crime UK Shinyapp                | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp)     |
 | Energy Analysis                  | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Energy-Analysis---Shinyapp) |
-| Bank Portuguese Campaigns        | Data Science          | Rpubs               | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
+| Bank Portuguese Campaigns        | Data Visualization    | Rpubs               | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
+| 50 Startup                       | Machine Learning     | Rpubs               | [GitHub](https://github.com/dimasrepo/50-Startup-Rpubs)       |
 
 
 
