@@ -1,31 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=HELLO!&color=FFFFFF)](https://git.io/typing-svg)
 ## About Me    
 I am a dedicated data scientist passionate about leveraging data-driven insights to solve complex problems and drive informed decision-making. With expertise in machine learning and predictive analytics, I specialize in developing robust models that uncover valuable patterns in data. My goal is to continuously innovate and contribute to the advancement of data science, making meaningful impacts across various domains.
-       
-
-
-## Repository 📁
- 
-### Project 
-
-| Project                          | Topic                | Platform            | Link                                                           |
-|----------------------------------|----------------------|---------------------|----------------------------------------------------------------|
-| Exchange Rate                    | Web Scraping         | Python              | [GitHub](https://github.com/dimasrepo/Webscraping-Exchange-Rate_Python) |
-| Coffee Trend and Recipe          | Data Visualization    | Rpubs               | [GitHub](https://github.com/dimasrepo/Coffe-Trend-and-Recipe_Rpubs) |
-| Super Store Overview             | Data Visualization    | Tableau             | [GitHub](https://github.com/dimasrepo/Super-Store-Overview_Tableau) |
-| Crime UK                 | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Crime-UK-Shinyapp)     |
-| Energy Analysis                  | Interactive Plotting  | Shinyapp            | [GitHub](https://github.com/dimasrepo/Energy-Analysis---Shinyapp) |
-| Bank Portuguese Campaigns        | Data Visualization    | Rpubs               | [GitHub](https://github.com/dimasrepo/Bank-Portuguese-Campaigns-Rpubs) |
-| 50 Startup                       | Machine Learning     | Rpubs               | [GitHub](https://github.com/dimasrepo/50-Startup-Rpubs)       |
-
-
-
-
-
-
-
-
-
 
 ## Languages and Tools 📖
 <div>
