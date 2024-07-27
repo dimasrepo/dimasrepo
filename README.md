@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=HELLO!&color=FFFFFF)](https://git.io/typing-svg)
-## About Me    
-I am a dedicated data scientist passionate about leveraging data-driven insights to solve complex problems and drive informed decision-making. With expertise in machine learning and predictive analytics, I specialize in developing robust models that uncover valuable patterns in data. My goal is to continuously innovate and contribute to the advancement of data science, making meaningful impacts across various domains.
+## Introduction    
+A variety of data science projects are available for exploration, demonstrating skills in data analysis and visualization to extract valuable insights and address real-world issues. Each project highlights a dedication to using data science techniques both effectively and creatively.
 
 ## Languages and Tools 📖
 <div>
