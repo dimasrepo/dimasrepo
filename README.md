@@ -28,10 +28,11 @@ A variety of data science projects are available for exploration, demonstrating 
 
 ### Best libraries :
 
-| Python          |          |          |             |          |               |          |          |
-|-----------------|----------|----------|-------------|----------|---------------|----------|----------|
-| NumPy           | Pandas   | Matplotlib | Scikit-learn | Keras   | Beautiful Soup | Seaborn | Requests |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="55" height="55"/> | <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2024/01/beautiful-soup.png" alt="Beautiful Soup" width="80" height="50"/> | <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="55" height="55"/> | <img src="https://fr.python-requests.org/en/latest/_static/requests-sidebar.png" alt="Requests" width="55" height="55"/> |
+| Python          |          |          |             |          |               |          |          |             |
+|-----------------|----------|----------|-------------|----------|---------------|----------|----------|-------------|
+| NumPy           | Pandas   | Matplotlib | Scikit-learn | Keras   | Beautiful Soup | Seaborn | Requests | TensorFlow  |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="55" height="55"/> | <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2024/01/beautiful-soup.png" alt="Beautiful Soup" width="80" height="50"/> | <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="55" height="55"/> | <img src="https://fr.python-requests.org/en/latest/_static/requests-sidebar.png" alt="Requests" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="55" height="55"/> |
+
 
 
 
